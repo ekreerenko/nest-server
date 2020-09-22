@@ -3,7 +3,7 @@
 ### Installation
 
 ```shell script
-git clone https://github.com/ingakuznetsova/nest-server.git
+git clone https://github.com/ekreerenko/nest-server.git
 cd ./nest-server
 npm install
 createdb simplenest
